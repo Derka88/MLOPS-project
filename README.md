@@ -7,10 +7,11 @@
 │   ├── features/
 │   │   ├── feature_engineering.py
 │   ├── models/
-│       ├── train_model.py
-│       ├── evaluate_model.py
+│       ├── ImportData.py
+│       ├── features_engineering.py
+│       ├── models.py
 ├── notebooks/
-│   ├── Consumption_energie.ipynb
+│   ├── Energy_Forecasting.ipynb
 ├── docs/
 │   ├── methodology.md
 │   ├── references.md
