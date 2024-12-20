@@ -1,4 +1,8 @@
 # MLOps Project: Energy Consumption Prediction
+Author : 
+Ange metuengo Fotso
+Nana Fatouma Abdou Dangaladima
+Abdoul Kader Mamoudou kaka
 
 ## Project Overview
 This project focuses on forecasting energy consumption using machine learning techniques, particularly time-series analysis. It integrates MLOps best practices for model development, deployment, and monitoring. The goal is to predict future energy usage based on historical data, environmental factors, and other relevant features.
@@ -18,8 +22,7 @@ The project is organized as follows:
 ├── notebooks/
 │   ├── Energy_Forecasting.ipynb
 ├── docs/
-│   ├── methodology.md
-│   ├── references.md
+│   ├── Rapport_Projet_Mlops_Metuengo_Mamoudou_Abdou.pdf
 └── data/
 
 
@@ -72,7 +75,7 @@ Visualize model predictions and results.
 Modify the notebook as needed for different experiments, model tuning, or feature engineering approaches.
 
 Methodology
-For a detailed explanation of the methodology followed in this project, please refer to the docs/methodology.md file. This document outlines the steps taken from data collection to model deployment, including feature extraction, model selection, and evaluation strategies.
+For a detailed explanation of the methodology followed in this project, please refer to the docs/Rapport_Projet_Mlops_Metuengo_Mamoudou_Abdou file. This document outlines the steps taken from data collection to model deployment, including feature extraction, model selection, and evaluation strategies.
 
 References
 The docs/references.md file contains a list of all external resources and references used during the development of this project. These include tutorials, academic papers, and documentation for the libraries implemented.
