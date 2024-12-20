@@ -59,6 +59,6 @@ def extract_features(df):
     df['sin_mois'] = np.sin(2 * np.pi * df['Mois'] / 12)
     df['cos_mois'] = np.cos(2 * np.pi * df['Mois'] / 12)
 
-    df = df.drop(['jour', 'Jour_semaine', 'Mois', 'Annee', 'Numero_jour'], axis=1)
-    
+    df = df.drop([ 'Jour_semaine', 'Mois', 'Numero_jour'], axis=1)
+
     return df
